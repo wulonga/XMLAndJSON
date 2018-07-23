@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8">
+<books>
+<book id="1">
+<title>疯狂ios讲义</title>
+<author>李刚</author>
+<remark>基于最新版的ios 9</remark>
+</book>
+<book id="2">
+<title>疯狂java讲义</title>
+<author>李刚</author>
+<remark>基于最新版的java</remark>
+</book>
+<book id="3">
+<title>疯狂android讲义</title>
+<author>李刚</author>
+<remark>基于最新版的android</remark>
+</book>
+</books>

@@ -1,0 +1,15 @@
+[
+{
+  "sender"  : "Sam",
+  "receiver": "Jack",
+  "content" : "今晚放学操场见。",
+  "date"    : "2015年10月19日"
+},
+{
+  "sender"  : "Bob",
+  "receiver": "Marry",
+  "content" : "今晚放学操场见。",
+  "date"    : "2015年10月19日"
+
+}
+]
